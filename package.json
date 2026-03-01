@@ -1,0 +1,1 @@
+{\n  "name": "hAIdi Consulting",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "astro dev",\n    "build": "astro build",\n    "preview": "astro preview"\n  },\n  "dependencies": {\n    "astro": "^1.0.0",\n    "@astrojs/netlify": "^0.1.0",\n    "@astrojs/static-site": "^0.1.0"\n  }\n}
